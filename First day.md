@@ -3,15 +3,15 @@
 
 
 
-Exams:
+Grades for the class:
 
-| Exam - percentage of grade - questions? |
-| ----- | ------- |
-| Run time analysis  (25%)  50 questions? 
-| Proof of corectness  (25%) 15 question
-| Algorithm design (25%)  11 question
-| Question set (15%) - 30 questions
-| Final exam (10%) - 1
+| Assignment name | percentage of grade | questions/ # of assignments |
+| ----------- | ----------- | ----------- |
+| Run time analysis | (25%) | 50 |
+| Proof of corectness | (25%) | 15
+| Algorithm design | (25%) | 11 |
+| Question set | (15%) | 30 |
+| Final exam | (10%) | 1 |
 
 ----
 
